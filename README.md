@@ -132,7 +132,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/)
 - OH - **in Ohio there are several channels:**
   - [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
-  - [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
+  - [Cleveland Tech](https://cleveland-tech.vercel.app/)
   - [Cincy Tech Slack](https://cincytech.slack.com)
   - [Code Youngstown Slack](http://slack.codeyoungstown.com)
 - WI - **in Wisconsin there are several channels:**
